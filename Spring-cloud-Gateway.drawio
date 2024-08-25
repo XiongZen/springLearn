@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="wKL1-lJ3wf88zTCWWPxn">
-    <mxGraphModel dx="3088" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3060" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,6 +226,33 @@
         <mxCell id="pBb8iKvEGnMHyMaFa10k-72" value="模板参数可以通过&lt;span style=&quot;color: rgb(36, 41, 46); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 16px; text-align: start; white-space: pre; background-color: rgb(246, 248, 250);&quot;&gt;ServerWebExchangeUtils.getUriTemplateVariables 获取&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="984" y="756" width="580" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-186" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-187" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-188" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-189" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-190" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-193" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-196" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-197" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-199" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-74" value="Gateway Filter Factories" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="112" y="660" width="170" height="30" as="geometry" />
         </mxCell>
@@ -264,116 +291,71 @@
         <mxCell id="pBb8iKvEGnMHyMaFa10k-92" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-89" target="pBb8iKvEGnMHyMaFa10k-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-94" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-89" value="AddRequestHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-210" y="470" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-90" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="pBb8iKvEGnMHyMaFa10k-89" parent="1" source="pBb8iKvEGnMHyMaFa10k-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="696" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="-316" y="251" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-91" value="在Request Header 中添加参数" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-525" y="470" width="200" height="30" as="geometry" />
+          <mxGeometry x="-631" y="251" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-97" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-93" target="pBb8iKvEGnMHyMaFa10k-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-99" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-93" value="AddRequestHeaderIfNotPresent GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-283" y="521" width="330" height="30" as="geometry" />
+          <mxGeometry x="-389" y="302" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-96" value="与Request Header 不同的是只有 只有Header中不存在需要添加的header时，才会加上" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-795" y="522" width="500" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-101" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-100">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-901" y="303" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-98" value="AddRequestParameter GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-258" y="565" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-103" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-102">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-364" y="346" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-100" value="AddResponseHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-258" y="610" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-105" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-104">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-364" y="391" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-102" value="AddResponseHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-258" y="643" width="280" height="30" as="geometry" />
+          <mxGeometry x="-375" y="424" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-107" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-106">
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-191" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-104" target="pBb8iKvEGnMHyMaFa10k-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-104" value="CircuitBreaker GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-238" y="679" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-109" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-108">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-344" y="460" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-106" value="CacheRequestBody GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-253" y="711" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-111" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-110">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-360" y="490" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-108" value="DedupeResponseHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-268" y="744" width="300" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-113" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-110">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-230" y="808" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-115" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-114">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-374" y="525" width="300" height="27" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-110" value="FallbackHeaders GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-243" y="778" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-116" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-112" target="pBb8iKvEGnMHyMaFa10k-110">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-295" y="886" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="-291" y="613" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-112" value="可以在 CircuitBreaker 执行异常相关的具体细节添加到被转发到外部应用程序特定 fallbackUride 的请求Header中" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-925" y="779" width="630" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-118" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.047;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-117">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-1050" y="452" width="630" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-114" value="JsonToGrpc GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-233" y="841" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pBb8iKvEGnMHyMaFa10k-120" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.153;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-119">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-282" y="681" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-117" value="LocalResponseCache GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-265" y="876" width="280" height="30" as="geometry" />
+          <mxGeometry x="-329" y="725" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-122" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-119" value="MapRequestHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-260" y="912" width="270" height="30" as="geometry" />
+          <mxGeometry x="-318" y="777" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-124" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-121" value="ModifyRequestBody GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-260" y="940" width="270" height="30" as="geometry" />
+          <mxGeometry x="-316" y="859" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-126" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-123" value="ModifyResponseBody GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-265" y="979" width="280" height="30" as="geometry" />
+          <mxGeometry x="-321" y="898" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-128" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-127">
           <mxGeometry relative="1" as="geometry">
@@ -384,7 +366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-125" value="PrefixPath GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-205" y="1012" width="220" height="30" as="geometry" />
+          <mxGeometry x="-261" y="931" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-130" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-129">
           <mxGeometry relative="1" as="geometry">
@@ -395,22 +377,103 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-127" value="PreserveHostHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-254" y="1054" width="270" height="30" as="geometry" />
+          <mxGeometry x="-311" y="964" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-132" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-129" value="RedirectTo GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-207" y="1085" width="220" height="30" as="geometry" />
+          <mxGeometry x="-264" y="995" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-134" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-131" value="RedirectTo GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-207" y="1115" width="220" height="30" as="geometry" />
+          <mxGeometry x="-264" y="1025" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-136" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-135">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBb8iKvEGnMHyMaFa10k-133" value="RemoveJsonAttributesResponseBody GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-277" y="1147" width="360" height="30" as="geometry" />
+          <mxGeometry x="-397" y="1057" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-138" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-135" value="RemoveRequestHeader GatewayFilter Factoy" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-323" y="1089" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-140" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-137" value="RemoveRequestParameter GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-333" y="1121" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-142" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-139" value="RemoveResponseHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-328" y="1152" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-144" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-141" value="RequestHeaderSize GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-313" y="1184" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-146" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-143" value="RequestRateLimiter GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-313" y="1222" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-148" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-145" value="RewriteLocationResponseHeader GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-348" y="1253" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-150" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-147" value="RewritePath GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-277" y="1294" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-152" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-149" value="RewriteRequestParameter GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-307" y="1334" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-154" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-151" value="RewriteResponseParameter GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-315" y="1371" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-153" value="SaveSession GatewayFilter Factory" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-243" y="1413" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-183" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-173" target="pBb8iKvEGnMHyMaFa10k-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-173" value="..." style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-89" y="810" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-182" value="&lt;ol&gt;&lt;li&gt;SecureHeaders&lt;/li&gt;&lt;li&gt;SetPath&lt;/li&gt;&lt;li&gt;SetRequestHeader&lt;/li&gt;&lt;li&gt;SetResponseHeader&lt;/li&gt;&lt;li&gt;Setstatus&lt;/li&gt;&lt;li&gt;StripPrefix&lt;/li&gt;&lt;li&gt;Retry&lt;/li&gt;&lt;li&gt;TokenRelay&lt;/li&gt;&lt;li&gt;Default&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="800" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-192" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-194" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-195" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBb8iKvEGnMHyMaFa10k-198" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0.963;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBb8iKvEGnMHyMaFa10k-74" target="pBb8iKvEGnMHyMaFa10k-106">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
