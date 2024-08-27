@@ -29,21 +29,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-5" value="https://www.flowable.com/open-source/docs/" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="180" width="280" height="30" as="geometry" />
+          <mxGeometry x="680" y="146" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="PwN2sx8WR1cE-K9NehGq-5" parent="1" source="PwN2sx8WR1cE-K9NehGq-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PwN2sx8WR1cE-K9NehGq-7" value="AOS&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="440" width="70" height="30" as="geometry" />
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-24" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-7" target="PwN2sx8WR1cE-K9NehGq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-7" value="Database tables" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="540" y="630" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-12" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-2" target="PwN2sx8WR1cE-K9NehGq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-9" value="满足BPMN2.0规范（流程定义的工业XML规范）的流程定义" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="240" width="360" height="30" as="geometry" />
+          <mxGeometry x="680" y="206" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-11" target="PwN2sx8WR1cE-K9NehGq-14">
           <mxGeometry relative="1" as="geometry" />
@@ -59,8 +62,8 @@
         <mxCell id="PwN2sx8WR1cE-K9NehGq-11" value="Flow able提供的应用（application）" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="712" y="285" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PwN2sx8WR1cE-K9NehGq-14" value="&lt;ol&gt;&lt;li&gt;Flowable Modeler&lt;/li&gt;&lt;li&gt;Flowable Admin&lt;/li&gt;&lt;li&gt;Flowable IDM&lt;/li&gt;&lt;li&gt;Flowable Task&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="280" width="220" height="80" as="geometry" />
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-14" value="&lt;ol&gt;&lt;li&gt;Flowable Modeler 定义流程，画流程的可视化工具&lt;/li&gt;&lt;li&gt;Flowable Admin&lt;/li&gt;&lt;li&gt;Flowable IDM&lt;/li&gt;&lt;li&gt;Flowable Task&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="280" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-21" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-16" target="PwN2sx8WR1cE-K9NehGq-20">
           <mxGeometry relative="1" as="geometry" />
@@ -68,8 +71,45 @@
         <mxCell id="PwN2sx8WR1cE-K9NehGq-16" value="core Engine" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="712" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PwN2sx8WR1cE-K9NehGq-20" value="&lt;ol&gt;&lt;li&gt;process definition -&amp;gt; BPMN 2.0 is stored as xml&lt;/li&gt;&lt;li&gt;process instance&lt;/li&gt;&lt;li&gt;start event&lt;/li&gt;&lt;li&gt;user task&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="850" y="360" width="308" height="80" as="geometry" />
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-20" value="&lt;ol&gt;&lt;li&gt;process definition -&amp;gt; BPMN 2.0 is stored as xml&lt;/li&gt;&lt;li&gt;process instance&lt;/li&gt;&lt;li&gt;start event&lt;/li&gt;&lt;li&gt;user task&lt;/li&gt;&lt;li&gt;exclusive gateway&lt;/li&gt;&lt;li&gt;sequence flow -&amp;gt; 方向箭头&lt;/li&gt;&lt;li&gt;process variable&lt;/li&gt;&lt;li&gt;deploy -&amp;gt; 流程引擎将XML文件存到数据库&lt;/li&gt;&lt;li&gt;JavaDelegate -&amp;gt; 实现org.flowable.engine.delegate.JavaDelegate 接口&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="850" y="360" width="430" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-26" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-7" target="PwN2sx8WR1cE-K9NehGq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-22" value="The SQL DDL statements are in the engine JAR(flowable-engine-x.jar) in the package org/flowable/db/create" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="740" y="570" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-28" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-25" target="PwN2sx8WR1cE-K9NehGq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-30" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-25" target="PwN2sx8WR1cE-K9NehGq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-32" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-25" target="PwN2sx8WR1cE-K9NehGq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-25" value="Database table names explained" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="730" y="670" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-27" value="所有表都以ACT_开头" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1041" y="616" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-29" value="ACT_RE: &#39;RE&#39; stands for repository. 包含静态信息像流程定义，流程资源（图片，规则 等）" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1035" y="660" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-34" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-25" target="PwN2sx8WR1cE-K9NehGq-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-31" value="ACT_RU: &#39;RU&#39; stands for runtime. 流程运行时表，&lt;div&gt;只有流程运行中的时候这些表中才有数据，&lt;div&gt;当流程实例结束的时候这些表中的记录会被移除。&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1035" y="700" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwN2sx8WR1cE-K9NehGq-33" value="ACT_HI:&#39;HI&#39; statnds for history. 包含" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1080" y="810" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
