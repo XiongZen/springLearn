@@ -63,7 +63,7 @@
           <mxGeometry x="712" y="285" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-14" value="&lt;ol&gt;&lt;li&gt;Flowable Modeler 定义流程，画流程的可视化工具&lt;/li&gt;&lt;li&gt;Flowable Admin&lt;/li&gt;&lt;li&gt;Flowable IDM&lt;/li&gt;&lt;li&gt;Flowable Task&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="280" width="320" height="80" as="geometry" />
+          <mxGeometry x="1120" y="240" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwN2sx8WR1cE-K9NehGq-21" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="PwN2sx8WR1cE-K9NehGq-16" target="PwN2sx8WR1cE-K9NehGq-20">
           <mxGeometry relative="1" as="geometry" />
